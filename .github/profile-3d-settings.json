@@ -1,0 +1,20 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-haro44n.svg",
+  "backgroundColor": "transparent",
+  "foregroundColor": "#D1D5DB",
+  "strongColor": "#F59E0B",
+  "weakColor": "#9CA3AF",
+  "radarColor": "#F59E0B",
+  "growingAnimation": true,
+  "saturation": "48%",
+  "contribLightness": [
+    "23%",
+    "32%",
+    "39%",
+    "46%",
+    "54%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
+}
